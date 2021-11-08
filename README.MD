@@ -1,6 +1,6 @@
-**Bruna Zaire Santana**
-**Caio Pessoa Silva**
-**Gabriela Oliveira Silva**
+* **Bruna Zaire Santana**
+* **Caio Pessoa Silva**
+* **Gabriela Oliveira Silva**
 
 * Repositório ATIV_REP_PROJ
 
@@ -23,4 +23,4 @@
 	* 1.6 Print do EAP feito no https://draw.io/
 	
 * Link do vídeo no YouTube:
-	https://github.com/caiopsilva07/ATIV_REP_PROJ.git
+	https://youtu.be/cWBTa62-YaA
