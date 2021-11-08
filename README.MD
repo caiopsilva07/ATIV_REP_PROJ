@@ -5,7 +5,7 @@
 * Repositório ATIV_REP_PROJ
 
 * No reposítório tem a seguinte pasta e arquivo nele:
-	* 1. Pasta: *Arquivos*
+	* 1 Pasta: *Arquivos*
 	* 1.1 Arquivo: *Abastecimento de Aeronaves.docx*
 	* 1.2 Arquivo: *Abastecimento de Aeronaves.mpp*
 	* 1.3 Arquivo: *Abastecimento de Aeronaves.pdf*
